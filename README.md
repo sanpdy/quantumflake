@@ -221,6 +221,10 @@ quantumflake/
       <td>University of Arkansas</td>
     </tr>
     <tr>
+        <td>Tim Faltermeier</td>
+        <td>Montana State University</td>
+    </tr>
+    <tr>
       <td>Dr. Hugh Churchill</td>
       <td>University of Arkansas</td>
     </tr>
